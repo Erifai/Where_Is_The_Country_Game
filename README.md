@@ -1,6 +1,6 @@
 # Where_Is_The_Country_Game
 
-##1) CHARGEMENT DE LA BASE DE DONNEES :
+## 1) CHARGEMENT DE LA BASE DE DONNEES :
 Pour exécuter notre projet il faut d'abord importer notre base de données ("./BASE DE DONNES/espace_membre.sql.zip") dans phpmyadmin.
 Pour importer la base vous devez suivre ces étapes :
 
@@ -12,7 +12,8 @@ Pour importer la base vous devez suivre ces étapes :
     Étape 6 - Vous avez terminé 
 
 <---------------------------------------------------------------------------------------------------------------------------------------------->
-##2) CONNEXION :
+
+## 2) CONNEXION :
 
 POUR VOUS CONNECTEZ DIRECTEMENT :
 	-En mode joueur : on a créé 3 compte 
@@ -24,7 +25,8 @@ POUR VOUS CONNECTEZ DIRECTEMENT :
 	    L'admin peut visualiser la liste des joueurs, l'historique d'un joueur et il peut aussi supprimer un joueur. 
 
 <---------------------------------------------------------------------------------------------------------------------------------------------->
-##3) JEU :
+
+## 3) JEU :
 
 POUR JOUER VOUS AVEZ DEUX POSSIBILITES :
 	1) MODE SHADOW (SANS INSCRIPTION)
