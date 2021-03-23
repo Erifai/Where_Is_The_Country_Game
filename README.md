@@ -38,8 +38,8 @@ POUR JOUER VOUS AVEZ DEUX POSSIBILITES :
 
 
 @authors :
- <br> 
       Mohammed MAAMIR 
+      
       Halima KHANTAR
+      
       Djahida BENABED
- </br>
