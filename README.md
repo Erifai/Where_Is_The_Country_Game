@@ -37,6 +37,7 @@ POUR JOUER VOUS AVEZ DEUX POSSIBILITES :
 
 
 
-@author : Mohammed MAAMIR
-@author : Halima KHANTAR
-@author : Djahida BENABED
+@authors :
+ Mohammed MAAMIR
+ Halima KHANTAR
+ Djahida BENABED
